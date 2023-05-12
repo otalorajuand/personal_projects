@@ -21,7 +21,6 @@ async def predict_image(file: UploadFile = File(...)):
     # make the prediction
     prediction = predict(image)
     print(prediction)
-
     return prediction
 
 
