@@ -19,11 +19,26 @@
         }
 
         #response_container {
-            font-size: larger;
+            font-size: 50px;
         }
+
+        #image_container {
+            max-width: 100%;
+            max-height: 80%;
+            overflow: hidden;
+        }
+
+        #uploaded_image {
+            display: block;
+            margin: auto;
+            max-width: 100%;
+            max-height: 100%;
+        }
+
     </style>
 </head>
 <body>
+    <div id="image_container"></div>
     <input type="file" id="image_upload">
     <div id="response_container"></div>
 </body>
