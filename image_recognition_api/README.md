@@ -8,8 +8,8 @@
 | ------ | ------------------------------------------------- | 
 | [prediction.py](https://github.com/otalorajuand/personal_projects/blob/main/image_recognition_api/prediction.py)| This file contains functions to load the trained model, to preprocess the images and to make predictions. | 
 | [server.py](https://github.com/otalorajuand/personal_projects/blob/main/image_recognition_api/server.py)| This file creates the API and uses the functions from the prediction.py file to apply to an image that is loaded from the /api/predict endpoint. | 
-| [index.html](https://github.com/otalorajuand/personal_projects/blob/main/image_recognition_api/front/index.html)| This is the html file that structures the simple front. | 
-| [script.js](https://github.com/otalorajuand/personal_projects/blob/main/image_recognition_api/front/script.js)| This is the script that uses the image that the user uploads and calls the API to get the prediction of that image. | 
+| [front/index.html](https://github.com/otalorajuand/personal_projects/blob/main/image_recognition_api/front/index.html)| This is the html file that structures the simple front. | 
+| [front/script.js](https://github.com/otalorajuand/personal_projects/blob/main/image_recognition_api/front/script.js)| This is the script that uses the image that the user uploads and calls the API to get the prediction of that image. | 
 
 
 ## Demonstration GIF
