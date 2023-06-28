@@ -2,6 +2,10 @@
 
 > In this project I used the MobileNet V3 pre-trained model from OpenCV and apply it for object detection. There are two modalities for this code, you can use it on an image or with the camera of your computer. This code will put a green rectangle in the object and a word with the prediction of the model. The object of this project is to learn how to implement this kind of model and explore its possibilities.
 
+## Usage
+
+There are two files to be executed: main.py which is executed to predict object detection based on the video from the web camera from your computer and image_object_detection.py to predict object detection based on an image in the current directory.
+
 ## Files
 
 | Filename | Description |
