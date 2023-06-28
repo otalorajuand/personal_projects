@@ -6,7 +6,8 @@
 
 | Filename | Description |
 | ------ | ------------------------------------------------- | 
-| [main.py](https://github.com/otalorajuand/personal_projects/blob/main/object_detection/main.py)| This is the main file and the file to be executed. | 
+| [main.py](https://github.com/otalorajuand/personal_projects/blob/main/object_detection/main.py)| This is the main file and the file to be executed for object detection with the webcam of your computer |
+| [image_object_detection.py](https://github.com/otalorajuand/personal_projects/blob/main/object_detection/image_object_detection.py)| This file predict object detection based on an image. |
 | [frozen_inference_graph.pb](https://github.com/otalorajuand/personal_projects/blob/main/object_detection/frozen_inference_graph.pb)| This is the weights and graph of the model. | 
 | [coco_names.txt](https://github.com/otalorajuand/personal_projects/blob/main/object_detection/coco_names.txt)| The names of the categories predicted. | 
 | [ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt](https://github.com/otalorajuand/personal_projects/blob/main/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt)| This file contains the configuration of the model. | 
