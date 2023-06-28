@@ -14,6 +14,12 @@
 
 ## Demonstration GIF
 
+### Image Object Detection
+<img width="637" alt="image" src="https://github.com/otalorajuand/personal_projects/assets/22607461/f1057994-40d1-4c0f-8a1c-c52e969b75f1">
+
+
+### Video Object Detection
+
 ![ezgif com-gif-to-mp4](https://github.com/otalorajuand/personal_projects/assets/22607461/73273e65-e964-46bd-aa52-08500515671a)
 
 
