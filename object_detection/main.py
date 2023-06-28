@@ -11,14 +11,14 @@ cap.set(4, 480)  # Height
 
 # Load the class names from a file
 classNames = []
-classFile = "coco_names.txt"
+classFile = "model/coco_names.txt"
 with open(classFile, 'rt') as f:
     classNames = f.read().rstrip('\n').split('\n')
 
 
 # Load the pre-trained model
-configPath = 'ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
-weightsPath = 'frozen_inference_graph.pb'
+configPath = 'model/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
+weightsPath = 'model/frozen_inference_graph.pb'
 net = cv2.dnn_DetectionModel(weightsPath, configPath)
 
 # Set the input size, scale, mean, and swap RB channels for the model
