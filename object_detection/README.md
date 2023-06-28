@@ -14,7 +14,7 @@
 
 ## Demonstration GIF
 
-![ezgif com-video-to-gif](https://github.com/otalorajuand/personal_projects/assets/22607461/08135286-a3e8-43a5-b577-c6312bd68336)
+![ezgif com-gif-to-mp4](https://github.com/otalorajuand/personal_projects/assets/22607461/73273e65-e964-46bd-aa52-08500515671a)
 
 
 ### Try It On Your Machine :computer:
